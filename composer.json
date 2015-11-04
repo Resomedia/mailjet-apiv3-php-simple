@@ -1,5 +1,5 @@
 {
-    "name": "mailjet/mailjet-apiv3-php-simple",
+    "name": "zylor69/mailjet-apiv3-php-simple",
     "description": "[API v3] Simple PHP wrapper for the Mailjet API",
     "keywords": ["mailjet", "api", "v3", "php", "email"],
     "homepage": "https://github.com/mailjet/mailjet-apiv3-php-simple/",
